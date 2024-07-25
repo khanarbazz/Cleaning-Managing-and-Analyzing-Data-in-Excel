@@ -1,7 +1,7 @@
 # Cleaning-Managing-and-Analyzing-Data-in-Excel
 
 ## Project Overview
-This project demonstrates how to use Microsoft Excel for cleaning, managing, manipulating, and analyzing data. It covers various aspects of data analysis, including the use of simple and complex formulas, pivot tables, chart creation and formatting, filtering, and conditional formatting.
+This project demonstrates how to use Microsoft Excel for cleaning, managing, manipulating, and analyzing data. It covers various aspects of data analysis,statistical analysis like outliers detection,use of simple and complex formulas, pivot tables, chart creation and formatting, filtering, and conditional formatting.
 
 ## Features
 
@@ -15,13 +15,18 @@ This project demonstrates how to use Microsoft Excel for cleaning, managing, man
 - **Filtering**: Applying filters to analyze subsets of data.
 - **Charts**: Creating and formatting different types of charts to visualize data.
 
-
-## Getting Started
-
-### Prerequisites
-
-- Microsoft Excel (any version that supports the features used in this project)
-
+## Functions and Formulas Used:
+ **Sum**
+ **Sumifs**
+ **Average**
+ **Averageifs**
+ **CountA**
+ **Countifs**
+ **Lookups**
+ **IF**
+ **Data Validation**
+ **Median**
+ 
 ## Examples
 
 - **Data Summary**: Using pivot tables to provide an overview of the data.
@@ -29,6 +34,10 @@ This project demonstrates how to use Microsoft Excel for cleaning, managing, man
 - **Salary Spread**: Analyzing salary distribution using statistical functions and charts.
 - **Salary vs. Rating**: Creating scatter plots to visualize the relationship between salary and performance ratings.
 - **Report of Indian Staff and New Zealand Staff**: Reporting data specific to employees from India and New Zealand.
+
+## Final Excel Sheet
+
+You can download and view the final Excel sheet for this project [here](https://github.com/johndoe/excel-data-analysis-project/raw/main/final_project.xlsx).
 
 
 ## Contributing
@@ -38,4 +47,4 @@ If you would like to contribute to this project, please fork the repository and 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out to me at your.email@example.com.
+If you have any questions or suggestions, feel free to reach out to me at arbazk132000@gmail.com
