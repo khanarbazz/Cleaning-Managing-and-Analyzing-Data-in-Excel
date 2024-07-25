@@ -15,17 +15,18 @@ This project demonstrates how to use Microsoft Excel for cleaning, managing, man
 - **Filtering**: Applying filters to analyze subsets of data.
 - **Charts**: Creating and formatting different types of charts to visualize data.
 
-## Functions and Formulas Used:
- **Sum**
- **Sumifs**
- **Average**
- **Averageifs**
- **CountA**
- **Countifs**
- **Lookups**
- **IF**
- **Data Validation**
- **Median**
+## Functions and Formulas Used
+
+- **`SUM`**
+- **`SUMIFS`**
+- **`AVERAGE`**
+- **`AVERAGEIFS`**
+- **`COUNTA`**
+- **`COUNTIFS`**
+- **`LOOKUP`**
+- **`IF`**
+- **`DATA VALIDATION`**
+- **`MEDIAN`**
  
 ## Examples
 
