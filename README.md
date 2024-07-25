@@ -23,11 +23,12 @@ This project demonstrates how to use Microsoft Excel for cleaning, managing, man
 - Microsoft Excel (any version that supports the features used in this project)
 
 ## Examples
-- Data Summary: Using pivot tables to provide an overview of the data.
--Employee Information Finder: Using lookup functions and data validiation to retrieve employee details.
--Salary Spread: Analyzing salary distribution using statistical functions and charts.
--Salary vs. Rating: Creating scatter plots to visualize the relationship between salary and performance ratings.
--Report of Indian Staff: Reporting data specific to employees from India and New Zealand
+
+- **Data Summary**: Using pivot tables to provide an overview of the data.
+- **Employee Information Finder**: Using lookup functions and data validation to retrieve employee details.
+- **Salary Spread**: Analyzing salary distribution using statistical functions and charts.
+- **Salary vs. Rating**: Creating scatter plots to visualize the relationship between salary and performance ratings.
+- **Report of Indian Staff and New Zealand Staff**: Reporting data specific to employees from India and New Zealand.
 
 
 ## Contributing
