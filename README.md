@@ -36,9 +36,8 @@ This project demonstrates how to use Microsoft Excel for cleaning, managing, man
 - **Salary vs. Rating**: Creating scatter plots to visualize the relationship between salary and performance ratings.
 - **Report of Indian Staff and New Zealand Staff**: Reporting data specific to employees from India and New Zealand.
 
-## Final Excel Sheet
-
-You can download and view the final Excel sheet for this project [here]([https://github.com/johndoe/excel-data-analysis-project/raw/main/final_project.xlsx](https://github.com/khanarbazz/Cleaning-Managing-and-Analyzing-Data-in-Excel/blob/main/Cleaned%2C%20Managed%20and%20Analysed%20Excel%20Report.xlsx)).
+## Excel Sheet
+You can visit and view the final Excel sheet for this project [here](https://github.com/khanarbazz/Cleaning-Managing-and-Analyzing-Data-in-Excel/blob/main/Cleaned%2C%20Managed%20and%20Analysed%20Excel%20Report.xlsx).
 
 
 ## Contributing
